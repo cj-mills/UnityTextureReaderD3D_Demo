@@ -1,5 +1,5 @@
 # UnityTextureReaderD3D_Demo
- This is a simple demo project that demonstrates how to use the UnityTextureReaderD3D package to access and read pixel data from Direct3D11 and Direct3D12 textures in Unity.
+ This is a simple demo project that demonstrates how to use the [UnityTextureReaderD3D](https://github.com/cj-mills/UnityTextureReaderD3D) package to access and read pixel data from Direct3D11 and Direct3D12 textures in Unity.
 
 
 ## Getting Started
@@ -15,3 +15,4 @@ git clone https://github.com/cj-mills/UnityTextureReaderD3D_Demo.git
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
