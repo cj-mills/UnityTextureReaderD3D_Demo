@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering;
-using UnityTextureReaderD3D;
+using CJM.UnityTextureReaderD3D;
 
 public class TestPixelReadback : MonoBehaviour
 {
